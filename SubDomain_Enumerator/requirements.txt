@@ -1,3 +1,0 @@
-dnspython==2.4.2
-futures==3.4.0
-
