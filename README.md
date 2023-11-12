@@ -7,6 +7,7 @@ Welcome to the 'Projects' repository! This repository serves as the main directo
 1. [Project 1: Banner Grabber](./Banner_Grabber)
 2. [Project 2: DNS Enumerator](./DNS_Enumerator)
 3. [Project 3: Subdomain Enumerator](./Subdomain_Enumerator)
+4. [Project 4: Password_Generatr](./Password_Generator)
 
 ## Project Descriptions
 
@@ -24,6 +25,11 @@ Welcome to the 'Projects' repository! This repository serves as the main directo
 
 - Description: Python script designed for efficiently enumerating subdomains of a specified domain.
 - Technologies: Python, argparse, dns, threading
+
+### Project 4: Password_Generator
+
+- Description: Python script designed to provide a secure way to generate random passwords and optionally encrypt them using the bcrypt hashing algorithm.
+- Technologies: Python, argparse, secrets, string, bcrypt
 
 ## Usage
 
