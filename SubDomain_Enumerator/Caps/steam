@@ -1,0 +1,32 @@
+Domain: steampowered.com
+Wordlist: ./Wordlists/subdomains-10000.txt
+www.steampowered.com
+smtp.steampowered.com
+test.steampowered.com
+support.steampowered.com
+media.steampowered.com
+api.steampowered.com
+cdn.steampowered.com
+forums.steampowered.com
+store.steampowered.com
+help.steampowered.com
+login.steampowered.com
+cs.steampowered.com
+partner.steampowered.com
+link.steampowered.com
+cdn3.steampowered.com
+developer.steampowered.com
+repo.steampowered.com
+puppet.steampowered.com
+cdn4.steampowered.com
+media2.steampowered.com
+cafe.steampowered.com
+gm.steampowered.com
+checkout.steampowered.com
+controller.steampowered.com
+media4.steampowered.com
+crash.steampowered.com
+bulkmail.steampowered.com
+translation.steampowered.com
+storefront.steampowered.com
+
