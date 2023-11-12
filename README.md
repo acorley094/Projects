@@ -27,11 +27,7 @@ Welcome to the 'Projects' repository! This repository serves as the main directo
 
 ## Usage
 
-Feel free to explore each project's directory for more detailed information, instructions, and code related to the specific cybersecurity project. Each project directory contains its own README with setup instructions, usage guidelines, and other relevant details.
-
-## Contributing
-
-If you have suggestions, enhancements, or would like to contribute to any of the projects, please follow the contribution guidelines outlined in each project's README.
+Feel free to explore each project's directory for more detailed information, instructions, and code related to the specific project. Each project directory contains its own README with setup instructions, usage guidelines, and other relevant details.
 
 ## License
 
