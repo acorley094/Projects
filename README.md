@@ -1,6 +1,6 @@
 # Projects
 
-Welcome to the 'Projects' repository! This repository serves as the main directory for various cybersecurity projects I am working on. Each project is organized in its own directory, containing relevant code, documentation, and resources.
+Welcome to the 'Projects' repository! This repository serves as the main directory for various projects I am working on. Each project is organized in its own directory, containing relevant code, documentation, and resources.
 
 ## Table of Contents
 
