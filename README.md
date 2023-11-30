@@ -4,9 +4,9 @@ Welcome to the 'Projects' repository! This repository serves as the main directo
 
 ## Table of Contents
 
-1. [Project 1: Banner Grabber](./Banner_Grabber)
-2. [Project 2: DNS Enumerator](./DNS_Enumerator)
-3. [Project 3: Subdomain Enumerator](./Subdomain_Enumerator)
+1. [Project 1: Banner_Grabber](./Banner_Grabber)
+2. [Project 2: DNS_Enumerator](./DNS_Enumerator)
+3. [Project 3: Subdomain_Enumerator](./Subdomain_Enumerator)
 4. [Project 4: Password_Generator](./Password_Generator)
 
 ## Project Descriptions
