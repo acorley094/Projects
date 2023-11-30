@@ -1,4 +1,4 @@
-# DNS Enumeration Tool
+# Project Description: DNS Enumeration Tool
 
 ## Overview
 
