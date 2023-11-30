@@ -1,4 +1,4 @@
-# Password Generation Tool
+# Project Description: Password Generation Tool
 
 ## Overview
 
