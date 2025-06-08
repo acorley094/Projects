@@ -1,0 +1,9 @@
+# config.txt
+
+# API keys for tools
+WPSCAN_API_KEY="YOUR_API_KEY" 
+
+# Add more API keys as needed
+
+# Other settings
+OUTPUT_DIR_PREFIX="scan_results"
